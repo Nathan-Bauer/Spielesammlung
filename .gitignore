@@ -1,3 +1,12 @@
+# cumstom settings
+
+# Visual Studio Code
+.vscode
+
+
+
+# .gitignore template: Node
+
 # Logs
 logs
 *.log
