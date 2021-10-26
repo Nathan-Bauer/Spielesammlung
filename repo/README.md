@@ -1,2 +1,0 @@
-# Spielesammlung
-Online Multiplayer Brettspiele
